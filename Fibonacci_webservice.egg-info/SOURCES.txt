@@ -1,0 +1,10 @@
+README.txt
+setup.py
+Fibonacci_webservice.egg-info/PKG-INFO
+Fibonacci_webservice.egg-info/SOURCES.txt
+Fibonacci_webservice.egg-info/dependency_links.txt
+Fibonacci_webservice.egg-info/requires.txt
+Fibonacci_webservice.egg-info/top_level.txt
+endpoints/fibonacci_service.py
+fibonacci/fibonacci.py
+tests/__init__.py
