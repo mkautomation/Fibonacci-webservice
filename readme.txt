@@ -7,7 +7,9 @@ Setup:
 2. Install python
    python
      Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32  
-3. Download from git
+3. Download project from github
+   cd C:\work
+   git clone git@github.com:mkautomation/Fibonacci-webservice.git
 4. Build and install the service
    cd C:\work\Fibonacci-webservice
    python setup.py develop
